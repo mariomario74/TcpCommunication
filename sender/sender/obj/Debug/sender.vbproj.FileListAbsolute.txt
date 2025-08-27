@@ -1,0 +1,12 @@
+C:\Users\Mario.Gherga\source\repos\sender\sender\bin\Debug\sender.exe.config
+C:\Users\Mario.Gherga\source\repos\sender\sender\bin\Debug\sender.exe
+C:\Users\Mario.Gherga\source\repos\sender\sender\bin\Debug\sender.pdb
+C:\Users\Mario.Gherga\source\repos\sender\sender\bin\Debug\sender.xml
+C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.vbproj.AssemblyReference.cache
+C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.Resources.resources
+C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.vbproj.GenerateResource.cache
+C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.vbproj.CoreCompileInputs.cache
+C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.exe
+C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.xml
+C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.pdb
+C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.exe.config
