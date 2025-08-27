@@ -1,0 +1,12 @@
+C:\Users\Mario.Gherga\source\repos\listener\listener\bin\Debug\listener.exe.config
+C:\Users\Mario.Gherga\source\repos\listener\listener\bin\Debug\listener.exe
+C:\Users\Mario.Gherga\source\repos\listener\listener\bin\Debug\listener.pdb
+C:\Users\Mario.Gherga\source\repos\listener\listener\bin\Debug\listener.xml
+C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.vbproj.AssemblyReference.cache
+C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.Resources.resources
+C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.vbproj.GenerateResource.cache
+C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.vbproj.CoreCompileInputs.cache
+C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.exe
+C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.xml
+C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.pdb
+C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.exe.config
