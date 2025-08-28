@@ -10,3 +10,7 @@ C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.exe
 C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.xml
 C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.pdb
 C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.exe.config
+C:\Users\Mario.Gherga\source\repos\listener\listener\bin\Debug\listener.exe.manifest
+C:\Users\Mario.Gherga\source\repos\listener\listener\bin\Debug\listener.application
+C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.exe.manifest
+C:\Users\Mario.Gherga\source\repos\listener\listener\obj\Debug\listener.application

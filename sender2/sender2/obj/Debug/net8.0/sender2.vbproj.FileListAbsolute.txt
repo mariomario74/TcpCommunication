@@ -1,0 +1,14 @@
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\bin\Debug\net8.0\sender2.exe
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\bin\Debug\net8.0\sender2.deps.json
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\bin\Debug\net8.0\sender2.runtimeconfig.json
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\bin\Debug\net8.0\sender2.dll
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\bin\Debug\net8.0\sender2.pdb
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\obj\Debug\net8.0\sender2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\obj\Debug\net8.0\sender2.AssemblyInfoInputs.cache
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\obj\Debug\net8.0\sender2.AssemblyInfo.vb
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\obj\Debug\net8.0\sender2.vbproj.CoreCompileInputs.cache
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\obj\Debug\net8.0\sender2.dll
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\obj\Debug\net8.0\refint\sender2.dll
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\obj\Debug\net8.0\sender2.pdb
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\obj\Debug\net8.0\sender2.genruntimeconfig.cache
+C:\Users\Mario.Gherga\source\repos\sender2\sender2\obj\Debug\net8.0\ref\sender2.dll

@@ -10,3 +10,7 @@ C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.exe
 C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.xml
 C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.pdb
 C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.exe.config
+C:\Users\Mario.Gherga\source\repos\sender\sender\bin\Debug\sender.exe.manifest
+C:\Users\Mario.Gherga\source\repos\sender\sender\bin\Debug\sender.application
+C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.exe.manifest
+C:\Users\Mario.Gherga\source\repos\sender\sender\obj\Debug\sender.application
